@@ -1,0 +1,7 @@
+Ho creato un metodo per generare un iban casuale nella classe banca
+Ho cambiato il nome dei un metodo da lista a listacontocorrenti nella classe banca
+Ho messo le proprieties (la maggior parte solo get)
+Nella classe controcorrente online non ho capito che cazzo fare
+
+Nella cartella ci sono i file git che abbiamo visto con bianchi
+
